@@ -1,0 +1,20 @@
+<!--#include virtual="include/include_start.shtml"-->
+<body>
+
+<!-- Primary Page Layout
+================================================== -->
+
+<div class="container">
+    
+<!--#include virtual="include/include_menu_left.shtml"-->
+<!--#include virtual="include/include_main.shtml"-->
+<!--#include virtual="include/include_menu_right.shtml"-->
+
+</div><!-- container -->
+
+<!--#include virtual="include/include_end.shtml"-->
+
+<!-- End Document
+================================================== -->
+</body>
+</html>
