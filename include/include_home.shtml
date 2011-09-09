@@ -7,24 +7,49 @@
     <li><a href="#about">About</a></li>
     <li><a href="#membership">Membership</a></li>
     <li><a href="#sponsors">Sponsors</a></li>
-    <li><a href="#login">Staff Login</a></li>
+    <li><a href="#contact">Contact</a></li>
 </ul>
 
 <ul class="tabs-content">
     <li class="active" id="news">
-        <article>
-            <h5>One Core Principle</h5>
-            <p>Skeleton is built on three core principles:</p>
-            <ul class="square">
-                <li><strong>A Responsive Grid Down To Mobile</strong>: Elegant scaling from a browser to tablets to mobile.</li>
-                <li><strong>Fast to Start</strong>: It's a tool for rapid development with best practices</li>
-                <li><strong>Style Agnostic</strong>: It provides the most basic, beautiful styles, but is meant to be overwritten.</li>
-            </ul>
-        </article>
+    <article> 
+        <hgroup> 
+            <h5><a href="/blog/global-philanthropy-forum-10th-annual-conference--sustainable-agriculture-in-africa">Global Philanthropy Forum 10th Annual Conference: Sustainable Agriculture in Africa</a></h5>
+            <div class="posted">Posted&nbsp;<span class="posted_date">April 15 2011</span></div> 
+        </hgroup> 
+        <section class="article_content"> 
+            <p>Watch the video of the <a href="http://www.ssireview.org/stream/">GPF&nbsp;presentation on Sustainable Agriculture in Africa</a>.</p> 
+            <p><a class="continue_reading" href="/blog/global-philanthropy-forum-10th-annual-conference--sustainable-agriculture-in-africa">continue reading &raquo;</a></p> 
+        </section> 
+    </article> 
+    <hr />
+    <article> 
+        <hgroup> 
+            <h5><a href="/blog/global-philanthropy-forum-10th-annual-conference--sustainable-agriculture-in-africa">Global Philanthropy Forum 10th Annual Conference: Sustainable Agriculture in Africa</a></h5>
+            <div class="posted">Posted&nbsp;April 15 2011</span></div> 
+        </hgroup> 
+        <section class="article_content"> 
+            <p>Watch the video of the <a href="http://www.ssireview.org/stream/">GPF&nbsp;presentation on Sustainable Agriculture in Africa</a>.</p> 
+            <p class="continue_reading"><a href="/blog/global-philanthropy-forum-10th-annual-conference--sustainable-agriculture-in-africa">continue reading &raquo;</a></p> 
+        </section> 
+    </article> 
+    <hr />
+    </li>
+    <li id="events">
+    <article> 
+        <hgroup> 
+            <h5><a href="">Fifth Annual ANEC Conference</a></h5>
+        </hgroup> 
+        <!--<section class="article_content"> 
+            <p>Watch the video of the <a href="http://www.ssireview.org/stream/">GPF&nbsp;presentation on Sustainable Agriculture in Africa</a>.</p> 
+            <p><a class="continue_reading" href="/blog/global-philanthropy-forum-10th-annual-conference--sustainable-agriculture-in-africa">continue reading &raquo;</a></p> 
+            </section>-->
+    </article> 
+    <hr />
     </li>
     <li id="about">
         <div>
-            <h3>About ANS</h3>
+            <h4>About ANS</h4>
             <p><a href="/file/docs/A_PROPOS_DE_LA_SAN.DOC">(en Francais)</a></p>
             <p>Established in 2008, the African Nutrition Society (ANS) is a registered  scientific professional body, a learned society formed by nutritional  scientists, food scientists and other health professionals working in, and with  an interest in the nutrition agenda for Africa. ANS was established as an  umbrella organization among others, to develop and promote the nutrition  profession in Africa and to oversee the Africa nutritional Epidemiology  conferences (ANEC) which have been running since 2002.</p>
             <p>As a professional  learned society, ANS seeks first and foremost to promote the ideals of food and  nutritional sciences as a subject allied to medicine and central to sound  health policies and the attainment of optimum population health. The interests  of individual members in playing their roles in promoting the nutritional well  being of the communities they serve are therefore paramount. The standards of  scientific training, attainment, research capability and sound professional  practice are essential ingredients of any professional body of repute and ANS  seeks to promote and ensure that its members meet the highest standards of  professional practice.</p>
@@ -90,93 +115,75 @@
     </li>
     <li id="membership">
         <div>
-            <p><h3>Membership</h3></p>
+            <h4>Membership</h4>
             <p><!--<h4>ANS Membership</h4>--><a href="/file/docs/SAN_ADHESION_FR.DOC">(en Francais)</a></p>
-            <p>Membership of the African Nutrition Society is open to any person who has an academic background in nutrition or related subjects including those allied to medicine with a genuine interest in the science of nutrition and its application to clinical and dietetic states, developmental biology and chronic disease, animal nutrition and health, the food industry, food security, nutrition and health policy. Applicants must be able to demonstrate a genuine interest in nutritional science and uphold the aims of ANS to protect, promote, advance and influence the scientific study and professional practice of nutrition in Africa. Membership is pan-African as well as international (worldwide) and <b><u>not</u></b> restricted by language, race, colour, creed or nationality. All registered members of ANS will have equal voting rights and access to the benefits of membership. The African Nutrition Society is a purely non-partisan, non-political scientific learned society of individual members who share a common interest and the vision and mission of the organization. The ANS will therefore not allow its platform to be used for the advancement of any political or personal interests. All members must abide by the strict code of ethics defined in the articles of association (constitution) and under the ¿nutrition Profession¿ in this document. Membership runs from January to December and to enjoy the full benefits, all members will be expected to renew their membership annually.</p>
-            <p><h4>Membership details</h4></p>
-            <p>Once registered, members are expected to inform the ANS of any changes in their details (including change of address, contact details, demographics, interests, job and workplace). Each member will have a membership number (and pass word) which will enable them access information on the membership pages at the <a href="www.answeb.org">ANS website</a>. To access the membership pages or update your membership details, please click <a href="/file/docs/ANS_MEMBERSHIP_APPLICATION_FORM.DOC">here</a> <a href="/file/docs/SAN_ADHESION_FR.DOC">(en Francais)</a>.  You can also contact our Membership Office at <a href="mailto:info@answeb.org">info@answeb.org</a> or telephone: +233 244 872410. Fax: +233 21513294i</p>
-            <p><h4>Membership Categories of the African Nutrition Society</h4></p>
-            <ul><li>Membership is open to applicants who meet criteria for registration as:
-                    <ul>
-                        <li>Full Members</li>
-                        <li>Student & Graduate Members</li>
-                        <li>Affiliate Member</li>
-                        <li>Institutional Members</li>
-                        <li>Concessionary Members</li>
-                        <li>Honorary Members</li>
-                    </ul>
-                </li>
-                <li>Full Membership
-                    <ul>
-                        <li>Full members are nutrition or food / agricultural scientists, dieticians, biochemists and biomedical scientists, medical and veterinary professionals or other allied health professionals, research scientists or practitioners  who meet the criteria for membership and who have fully paid up their annual subscription.  Members who pay their subscription before December 31, can defer their membership until January 1 of the following year.</li>
-                        <li>NB Members of ANS should check in their country of origin if they qualify for tax relief on their subscriptions.</li> 
-                    </ul>
-                </li>
-                <li>Student and Graduate Membership
-                    <ul>
-                        <li>Student members are students training in nutrition or food / agricultural sciences, biomedical science and biochemistry, dietetics, medicine or other allied health professionals, veterinary medicine or postgraduate research in nutrition or other related subjects.  Applications by student-members would normally be supported by an accompanying letter from an academic tutor from a recognized institution of Higher Learning where the individual is a bonafide student. Students qualify for a reduced cost membership while in full time study. Student membership is intended for anyone who is an unwaged, full time student. If you are studying on a full time course you can apply for student membership. Student members enjoy most of the benefits of ANS membership including access to free on-line journals. They also have concessions for journal subscription and ANS workshop / conference fees, and may qualify to apply for ANS travel grants where these are available. New student members who pay their subscription for an academic year will need to renew their membership at the start of every new academic year of study e.g. September 2010 for the 2010 / 2011 academic year.</li>
-                        <li>Graduate Members are former student members who are recent graduates and qualify for a reduced cost membership for up to 2 years after graduation. New graduates can transfer from student to full membership automatically if they so wish. Graduates can transfer from student to graduate and full membership without the need to reapply for membership. They will however be expected to upgrade their membership. Graduate members enjoy all the benefits of student members.</li>
-                    </ul>
-                </li>
-                <li>Affiliate Membership
-                    <ul>
-                        <li>Membership is open to individuals (and organizations) who belong to other fields of study or work e.g. subjects allied to medicine, the agro-food industry, media and other professional fields and who do not meet the criteria for full or student membership but express interest in participating in the activities of the Society. Affiliate members will enjoy most of the rights of membership but will have no voting rights on membership issues. If you are applying for affiliate membership, full details of your field of study or work, and appropriate accompanying reference letters of support will be required from your institution or organization. Affiliate membership is renewable annually in January of each year. </li>
-                    </ul>   
-                </li>
-                <li>Institutional Membership
-                    <ul>
-                        <li>Membership is open to individuals (and organizations) who belong to other fields of study or work e.g. the agro-food industry, media and other professional fields and who do not meet the criteria for full or student membership but express interest in participating in the activities of the Society. Affiliate members will enjoy most of the rights of membership but will have no voting rights on membership issues. If you are applying for affiliate membership, full details of your field of study or work, and appropriate accompanying reference letters of support will be required from your institution or organization. Affiliate membership is renewable annually in January of each year. </li>
-                    </ul>
-                </li>
-                <li>Concessionary and Honorary Membership
-                    <ul>
-                        <li>Full members who are eligible for lower rates include the retired individuals and those who are unwaged (all requests for concessionary membership rates have to be made and will be considered on their own merit). Members on concessionary rates will enjoy most benefits of members except where specified.</li>
-                        <li>Honorary members are those who have been invited by the African Nutrition Society to become members on the basis of Distinguished Services to Nutrition and / or other health, food, agriculture or related subjects and are recognized subject experts. Honorary membership is granted on the understanding that the individual can, and would make a substantial contribution to the promotion of the objectives and vision of the ANS. Honorary members enjoy most benefits of members except where specified.</li>
-                        <li>More information can be obtained <a href="/file/docs/ANS_MEMBERSHIP_APPLICATION_FORM.DOC">here</a> <a href="/file/docs/SAN_adhesion_fr.doc">(en Francais)</a> or by contacting us at <a href="mailto:info@answeb.org">info@answeb.org</a>.</li>
-                    </ul>
-                </li>
-                <li>Application Forms
-                    <ul>
-                        <li>Membership application forms can be downloaded <a href="/file/docs/ANS_MEMBERSHIP_APPLICATION_FORM.DOC">here</a> <a href="/file/docs/SAN_adhesion_fr.doc">(en Francais)</a>. Download and print the pdf application forms or complete the Word version online and send by email attachment to <a href="mailto:info@answeb.org">info@answeb.org</a></li>
-                    </ul>
-                </li>
-                <li>Concessionary and Honorary Membership 
-                    <ul>
-                        <li>Full members who are eligible for lower rates include the retired individuals and those who are unwaged (all requests for concessionary membership rates have to be made and will be considered on their own merit). Members on concessionary rates will enjoy most benefits of members except where specified. </li>
-                        <li>Honorary members are those who have been invited by the African Nutrition Society to become members on the basis of Distinguished Services to Nutrition and / or other health, food, agriculture or related subjects and are recognized subject experts. Honorary membership is granted on the understanding that the individual can, and would make a substantial contribution to the promotion of the objectives and vision of the ANS. Honorary members enjoy most benefits of members except where specified.</li>
-                    </ul>
-                </li>
-                </li>
-                    <ul>
-                        <li>More information can be obtained from the ANS website or by contacting us at <a href="mailto:info@answeb.org">info@answeb.org</a>.</li>
-                    </ul>
-                </li>
-            </ul>
+            <p>Membership of the African Nutrition Society is open to any person who has an academic background in nutrition or related subjects including those allied to medicine with a genuine interest in the science of nutrition and its application to clinical and dietetic states, developmental biology and chronic disease, animal nutrition and health, the food industry, food security, nutrition and health policy. Applicants must be able to demonstrate a genuine interest in nutritional science and uphold the aims of ANS to protect, promote, advance and influence the scientific study and professional practice of nutrition in Africa.</p>
+            <p>Membership is pan-African as well as international (worldwide) and <b><u>not</u></b> restricted by language, race, colour, creed or nationality. All registered members of ANS will have equal voting rights and access to the benefits of membership.</p>
+            <p>The African Nutrition Society is a purely non-partisan, non-political scientific learned society of individual members who share a common interest and the vision and mission of the organization. The ANS will therefore not allow its platform to be used for the advancement of any political or personal interests. All members must abide by the strict code of ethics defined in the articles of association (constitution) and under the Nutrition Profession in this document. </p>
+            <p>Membership runs from January to December and to enjoy the full benefits, all members will be expected to renew their membership annually.</p>
+            <h4>Membership details</h4>
+            <p>Once registered, members are expected to inform the ANS of any changes in their details (including change of address, contact details, demographics, interests, job and workplace). Each member will have a membership number (and pass word) which will enable them access information on the membership pages at the <a href="www.answeb.org">ANS website</a> (under construction). To access the membership pages or update your membership details, please click <a href="/file/docs/ANS_MEMBERSHIP_APPLICATION_FORM.DOC">here</a> <a href="/file/docs/SAN_ADHESION_FR.DOC">(en Francais)</a>.  You can also contact our Membership Office at <a href="mailto:info@answeb.org">info@answeb.org</a> or telephone: +233 244 872410. Fax: +233 21513294i</p>
+            <h4>Membership Categories of the African Nutrition Society</h4>
+            <dl compact>
+                <dt>Full Membership</dt>
+                <dd>
+                    <p>Full members are nutrition or food / agricultural scientists, dieticians, biochemists and biomedical scientists, medical and veterinary professionals or other allied health professionals, research scientists or practitioners  who meet the criteria for membership and who have fully paid up their annual subscription.  Members who pay their subscription before December 31, can defer their membership until January 1 of the following year.</p>
+                    <p>NB Members of ANS should check in their country of origin if they qualify for tax relief on their subscriptions.</p>
+                </dd>
+                <dt>Student and Graduate Membership</dt>
+                <dd>
+                    <p>Student members are students training in nutrition or food / agricultural sciences, biomedical science and biochemistry, dietetics, medicine or other allied health professionals, veterinary medicine or postgraduate research in nutrition or other related subjects.  Applications by student-members would normally be supported by an accompanying letter from an academic tutor from a recognized institution of Higher Learning where the individual is a bonafide student. Students qualify for a reduced cost membership while in full time study. Student membership is intended for anyone who is an unwaged, full time student. If you are studying on a full time course you can apply for student membership. Student members enjoy most of the benefits of ANS membership including access to free on-line journals. They also have concessions for journal subscription and ANS workshop / conference fees, and may qualify to apply for ANS travel grants where these are available. New student members who pay their subscription for an academic year will need to renew their membership at the start of every new academic year of study e.g. September 2010 for the 2010 / 2011 academic year.</p>
+                    <p>Graduate Members are former student members who are recent graduates and qualify for a reduced cost membership for up to 2 years after graduation. New graduates can transfer from student to full membership automatically if they so wish. Graduates can transfer from student to graduate and full membership without the need to reapply for membership. They will however be expected to upgrade their membership. Graduate members enjoy all the benefits of student members.</p>
+                </dd>
+                <dt>Affiliate Membership</dt>
+                <dd>
+                    <p>Membership is open to individuals (and organizations) who belong to other fields of study or work e.g. subjects allied to medicine, the agro-food industry, media and other professional fields and who do not meet the criteria for full or student membership but express interest in participating in the activities of the Society. Affiliate members will enjoy most of the rights of membership but will have no voting rights on membership issues. If you are applying for affiliate membership, full details of your field of study or work, and appropriate accompanying reference letters of support will be required from your institution or organization. Affiliate membership is renewable annually in January of each year. </p>
+                </dd>
+                <dt>Institutional Membership</dt>
+                <dd>
+                    <p>Membership is open to individuals (and organizations) who belong to other fields of study or work e.g. the agro-food industry, media and other professional fields and who do not meet the criteria for full or student membership but express interest in participating in the activities of the Society. Affiliate members will enjoy most of the rights of membership but will have no voting rights on membership issues. If you are applying for affiliate membership, full details of your field of study or work, and appropriate accompanying reference letters of support will be required from your institution or organization. Affiliate membership is renewable annually in January of each year. </p>
+                </dd>
+                <dt>Concessionary and Honorary Membership</dt>
+                <dd>
+                    <p>Full members who are eligible for lower rates include the retired individuals and those who are unwaged (all requests for concessionary membership rates have to be made and will be considered on their own merit). Members on concessionary rates will enjoy most benefits of members except where specified.</p>
+                    <p>Honorary members are those who have been invited by the African Nutrition Society to become members on the basis of Distinguished Services to Nutrition and / or other health, food, agriculture or related subjects and are recognized subject experts. Honorary membership is granted on the understanding that the individual can, and would make a substantial contribution to the promotion of the objectives and vision of the ANS. Honorary members enjoy most benefits of members except where specified.</p>
+                    <p>More information can be obtained <a href="/file/docs/ANS_MEMBERSHIP_APPLICATION_FORM.DOC">here</a> <a href="/file/docs/SAN_adhesion_fr.doc">(en Francais)</a> or by contacting us at <a href="mailto:info@answeb.org">info@answeb.org</a>.</p>
+                </dd>
+                <dt>Application Forms</dt>
+                <dd>
+                    <p>Membership application forms can be downloaded <a href="/file/docs/ANS_MEMBERSHIP_APPLICATION_FORM.DOC">here</a> <a href="/file/docs/SAN_adhesion_fr.doc">(en Francais)</a>. Download and print the pdf application forms or complete the Word version online and send by email attachment to <a href="mailto:info@answeb.org">info@answeb.org</a></p>
+                </dd>
+            </dl>
         </div>
     </li>
     <li id="sponsors">
+        <p>
+        <!--<h4 class="five columns">Unilever</h4>-->
+            <div class="two columns"><a href="http://unilever.com/"><img src="img/logo/unilever_logo_90x100.png" /></a></div>
+            <div class="three columns"><a href=""><img src="img/logo/ins_logo_130x100.png" /></a></div>
+            <div class="two columns"><a href="http://http://www.iuns.org/"><img src="img/logo/iuns_logo_67x100.png" /></a></div>
+        </p>
+        <hr />
+        <!--<p>
+            <h4 class="five columns">International Nutrition Society</h4>
+        </p>
+        <hr />
+        <p>
+            <h4 class="five columns">International Union of Nutritional Sciences</h4>
+            </p>-->
+    </li>
+    <li id="contact">
         <article>
-            <h5>Sponsors</h5>
-            <p>Skeleton is built on three core principles:</p>
+            <h4>Contact Us</h4>
+            <p></p>
             <ul class="square">
-                <li><strong>A Responsive Grid Down To Mobile</strong>: Elegant scaling from a browser to tablets to mobile.</li>
-                <li><strong>Fast to Start</strong>: It's a tool for rapid development with best practices</li>
-                <li><strong>Style Agnostic</strong>: It provides the most basic, beautiful styles, but is meant to be overwritten.</li>
+                <li><strong>Dr. Francis Zotor, ANS General Secretary</strong>: <a href="mailto:francisfirst@gmail.com">francisfirst@gmail.com</a></li>
+                <li><strong>Hayford Mawuli Avedzi (ANS Administrative Officer)</strong>: <a href="mailto:mawulify@yahoo.com">mawulify@yahoo.com</a></li>
+                <li><strong>General Information</strong>: <a href="mailto:info@answeb.org">info@answeb.org</a></li>
             </ul>
         </article>
     </li>
     <li id="contact">
-        <article>
-            <h5>Contact Us</h5>
-            <p>Skeleton is built on three core principles:</p>
-            <ul class="square">
-                <li><strong>A Responsive Grid Down To Mobile</strong>: Elegant scaling from a browser to tablets to mobile.</li>
-                <li><strong>Fast to Start</strong>: It's a tool for rapid development with best practices</li>
-                <li><strong>Style Agnostic</strong>: It provides the most basic, beautiful styles, but is meant to be overwritten.</li>
-            </ul>
-        </article>
-    </li>
-    <li id="login">
         <article>
             <h5>Five Core Principles</h5>
             <p>Skeleton is built on three core principles:</p>

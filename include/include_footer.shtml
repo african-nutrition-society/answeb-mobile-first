@@ -2,6 +2,6 @@
 <footer>
     <hr />
     <div>Design & Implementation by <a href="http://byrongibson.com/">Byron Gibson</a>, Logo by <a href="http://www.webcreationuk.com/">WebCreationUK</a>, Icons by <a href="http://icondock.com/free/vector-social-media-icons">IconDock</a></div> 
-    <div>Built with <a href="http://vosao.org/">Vosao CMS</a> and <a href="http://code.google.com/appengine/">Google AppEngine</a></div> 
+    <div>Built for mobile first with <a href="http://getskeleton.com/">Skeleton</a>, <a href="http://vosao.org/">Vosao CMS</a> and <a href="http://code.google.com/appengine/">Google AppEngine</a></div> 
     <div>Copyright © 2010, African Nutrition Society. All rights reserved.</div>
 </footer>

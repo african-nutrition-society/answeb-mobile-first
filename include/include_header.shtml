@@ -1,8 +1,14 @@
 
 <hr class="remove-bottom" />
 <header class="nine columns"> 
-    <div class="three columns" style="float:left"><img id="header-logo" src="img/logo/ans_logo_transparent_nowords_scaled.png" /></img></div>
+    <div class="three columns" style="float:left"><img id="header-logo" src="img/logo/ans_logo_transparent_nowords_89x100.png" /></img></div>
     <div class="four columns" style="float:right">
-        <h1 id="header-title" class="remove-bottom">African Nutrition Society</h1>
+        <h2 id="header-title" class="remove-bottom">
+            <ul>
+                <li><span class="BigLetter">A</span>frican</li>
+                <li><span class="BigLetter">N</span>utrition</li> 
+                <li><span class="BigLetter">S</span>ociety</li>
+            </ul>
+        </h2>
     </div>
 </header>
